@@ -36,3 +36,4 @@ Create a command-line password generator in Python that generates random passwor
 
 3.Character Set Handling: Manage different character sets (letters, numbers, symbols).
 
+![Simple password generator](https://github.com/Ashwanth1311/Oasis-Infobyte/assets/154829399/028e2fb2-7b35-4338-a318-1bcd46593526)
