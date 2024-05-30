@@ -22,4 +22,5 @@ Create a command-line BMI calculator in Python. Prompt users for their weight (i
 2.BMI Calculation: Accurately implement the BMI formula.
 
 3.Categorization: Classify BMI values into health categories based on predefined ranges
+
 https://github.com/Ashwanth1311/Oasis-Infobyte/assets/154829399/ca5d3430-a82f-4b7f-b12e-22ee0b7b71bc
