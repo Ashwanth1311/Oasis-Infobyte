@@ -23,4 +23,4 @@ Create a command-line BMI calculator in Python. Prompt users for their weight (i
 
 3.Categorization: Classify BMI values into health categories based on predefined ranges
 
-https://github.com/Ashwanth1311/Oasis-Infobyte/assets/154829399/bd54809a-0961-4054-90fa-297f129f2d58
+![BMI calculator code](https://github.com/Ashwanth1311/Oasis-Infobyte/assets/154829399/861d7350-ad75-405f-96c4-30d88848990d)
